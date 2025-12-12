@@ -27,12 +27,12 @@ Syntax:
 ```
 To encrypt a file:
 ```bash
-./aes.exe "e" key.bin plain.txt cipher.bin
+./aes.exe "e" key.bin plain.bin cipher.bin
 ```
 
 To deccrypt a file:
 ```bash
-./aes.exe "d" key.bin cipher.bin decrypted.txt
+./aes.exe "d" key.bin cipher.bin decrypted.bin
 ```
 
 ## Input Requirements
